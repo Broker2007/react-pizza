@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "64b5479c26e88dcf3497cd54"
+  },
+  "image": "Mazda 2",
+  "title": "assets/mazda/mazda1.png",
+  "data": "1980 — 2015",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b5479c26e88dcf3497cd56"
+  },
+  "image": "Mazda 3",
+  "title": "assets/mazda/mazda2.png",
+  "data": "1980 — 2015",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b5479c26e88dcf3497cd5c"
+  },
+  "image": "Mazda 5",
+  "title": "assets/mazda/mazda3.png",
+  "data": "1980 — 2015",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b5479c26e88dcf3497cd5e"
+  },
+  "image": "Mazda 6",
+  "title": "assets/mazda/mazda4.png",
+  "data": "1980 — 2015",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b5479c26e88dcf3497cd60"
+  },
+  "image": "Mazda BT-50",
+  "title": "assets/mazda/mazda5.png",
+  "data": "1980 — 2015",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b5479c26e88dcf3497cd62"
+  },
+  "image": "Mazda CX-3",
+  "title": "assets/mazda/mazda6.png",
+  "data": "1980 — 2015",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b5479c26e88dcf3497cd58"
+  },
+  "image": "Mazda CX-30",
+  "title": "assets/mazda/mazda7.png",
+  "data": "1980 — 2015",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b5479c26e88dcf3497cd5a"
+  },
+  "image": "Mazda CX-5",
+  "title": "assets/mazda/mazda8.png",
+  "data": "1980 — 2015",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b5479c26e88dcf3497cd66"
+  },
+  "image": "Mazda CX-7",
+  "title": "assets/mazda/mazda9.png",
+  "data": "1980 — 2015",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b5479c26e88dcf3497cd68"
+  },
+  "image": "Mazda CX-9",
+  "title": "assets/mazda/mazda10.png",
+  "data": "1980 — 2015",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b5479c26e88dcf3497cd6a"
+  },
+  "image": "Mazda MPV",
+  "title": "assets/mazda/mazda11.png",
+  "data": "1980 — 2015",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b5479c26e88dcf3497cd64"
+  },
+  "image": "Mazda MX-5",
+  "title": "assets/mazda/mazda12.png",
+  "data": "1980 — 2015",
+  "__v": 0
+}]

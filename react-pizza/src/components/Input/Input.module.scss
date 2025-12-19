@@ -1,0 +1,36 @@
+.root{
+  display: flex;
+  position: relative;
+  .img{
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    top: 15px;
+    left: 10px;
+  }
+
+  .imgClose{
+    width: 14px;
+    height: 14px;
+    position: absolute;
+    top: 16px;
+    right: 11px;
+  }
+
+
+  .input{
+    padding: 10px 40px ;
+    width: 300px;
+    opacity: 0.5;
+    border-radius: 10px;
+    border: 1px solid #4d2525;
+    font-size:18px;
+    transition: all 0.3s;
+    &:focus{
+      border: 1.2px solid #4d2525;
+      opacity: 1;
+
+    }
+  }
+}
+
